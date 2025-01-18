@@ -1,0 +1,17 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs & cache
+*.log
+*.cache
+
+# Ignore temp & backup files
+*.tmp
+*.bak
+~*
+
+# Ignore virtual environments (Python)
+venv/
+__pycache__/
+*.pyc
